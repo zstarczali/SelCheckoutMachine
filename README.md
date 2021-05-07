@@ -1,5 +1,5 @@
 # Self-checkout machine 
-**Self-checkout machine** is an test project for Digital Thinker.
+**Self-checkout machine** is an test project for Digital Thinkers.
 
 ## Info
 I used the **SqlLocalDb** for this Api : [download from here](https://download.microsoft.com/download/7/c/1/7c14e92e-bdcb-4f89-b7cf-93543e7112d1/SqlLocalDB.msi)
@@ -15,6 +15,7 @@ By default, if you have MSSQL, or MSSQLLocalDB is also perfect for your work.
 
 ### [Getting started](https://github.com/banksystembg/BankSystem/wiki/Getting-started)
 >**This page contains important information on how to properly configure SelfCheckoutMachineApi**
+You can test it's beviour with Swagger.
 
 dotnet buid
 
