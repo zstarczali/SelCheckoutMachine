@@ -14,8 +14,7 @@ By default, if you have MSSQL, or MSSQLLocalDB is also perfect for your work.
 ## Build
 
 ### [Getting started](https://github.com/banksystembg/BankSystem/wiki/Getting-started)
->**This page contains important information on how to properly configure SelfCheckoutMachineApi**
-You can test it's beviour with Swagger.
+>**This page contains important information on how to properly configure SelfCheckoutMachineApi**. You can test it's beviour with Swagger.
 
 dotnet buid
 
